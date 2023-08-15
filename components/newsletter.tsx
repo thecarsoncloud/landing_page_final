@@ -4,7 +4,7 @@ export default function Newsletter() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
 
         {/* CTA box */}
-        <div className="relative bg-purple-600 py-10 px-8 md:py-16 md:px-12" data-aos="fade-up">
+        <div className="relative bg-gray-600 py-10 px-8 md:py-16 md:px-12" data-aos="fade-up">
 
           {/* Background illustration */}
           <div className="absolute right-0 top-0 -ml-40 pointer-events-none" aria-hidden="true">
@@ -24,13 +24,13 @@ export default function Newsletter() {
             {/* CTA content */}
             <div className="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left lg:w-1/2">
               <h3 className="h3 text-white mb-2">Want to see a sample survey?</h3>
-              <p className="text-purple-200 text-lg">book a demo with us</p>
+              <p className="text-gray-200 text-lg">book a demo with us</p>
             </div>
 
             {/* CTA form */}
             <form className="w-full lg:w-1/2">
               <div className="flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
-                <a className="btn text-purple-600 bg-purple-100 hover:bg-white shadow" href="https://calendly.com/ciellie_15min/discover_ciellie">Book a Demo</a>
+                <a className="btn text-gray-600 bg-gray-100 hover:bg-white shadow" href="https://calendly.com/ciellie_15min/discover_ciellie">Book a Demo</a>
               </div>
               {/* Success message */}
               {/* <p className="text-center lg:text-left lg:absolute mt-2 opacity-75 text-sm">Thanks for subscribing!</p> */}
