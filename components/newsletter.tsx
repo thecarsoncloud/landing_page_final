@@ -23,14 +23,14 @@ export default function Newsletter() {
 
             {/* CTA content */}
             <div className="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left lg:w-1/2">
-              <h3 className="h3 text-white mb-2">Want to see a sample survey?</h3>
-              <p className="text-gray-200 text-lg">book a demo with us</p>
+              <h3 className="h3 text-white mb-2">We're currently offering your first Solar Site Survey free</h3>
+              <p className="text-gray-200 text-lg">no-risk trial</p>
             </div>
 
             {/* CTA form */}
             <form className="w-full lg:w-1/2">
               <div className="flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
-                <a className="btn text-gray-600 bg-gray-100 hover:bg-white shadow" href="https://calendly.com/ciellie_15min/discover_ciellie">Book a Demo</a>
+                <a className="btn text-gray-600 bg-gray-100 hover:bg-white shadow" href="https://calendly.com/ciellie_15min/discover_ciellie">Claim your Free Survey</a>
               </div>
               {/* Success message */}
               {/* <p className="text-center lg:text-left lg:absolute mt-2 opacity-75 text-sm">Thanks for subscribing!</p> */}
