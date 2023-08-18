@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Ciellie - Your Solar Surveyor',
-  description: 'get a solar survey schedule completed as soon as tomorrow',
+  description: 'Leading Solar Surveyor in the United States',
 }
 
 import Hero from '@/components/hero'
