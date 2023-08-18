@@ -36,7 +36,7 @@ export default function Hero() {
   <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200"></p>
   <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
     <div data-aos="fade-up" data-aos-delay="400">
-      <a className="btn text-black bg-white hover:bg-gray-200 w-full mb-4 sm:w-auto sm:mb-0" href="https://kalendar.ai/public/ciellie/11160">text with us</a>
+      <a className="btn text-black bg-white hover:bg-gray-200 w-full mb-4 sm:w-auto sm:mb-0" href="https://kalendar.ai/public/ciellie/11160">text with our AI agent</a>
     </div>
   </div>
 </div>
