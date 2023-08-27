@@ -35,7 +35,7 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-5 mt-0">Analyze</h4>
               <p className="text-lg text-gray-400 text-center">analyze with SolarSurvey.ai</p>
-              <a className="btn text-black bg-white hover:bg-gray-200 w-full mb-3 mt-3 sm:w-auto sm:mb-0 text-xs px-2.5 py-1.5" href="https://www.solarsurvey.ai/" target="_blank" rel="noopener noreferrer">Learn more about SolarSurvey.ai</a>
+              <a className="btn text-black bg-white hover:bg-gray-200 w-full mb-3 mt-3 sm:w-auto sm:mb-0 text-xs px-2.5 py-1.5" href="https://scanifly.com/" target="_blank" rel="noopener noreferrer">Learn more about Scanifly</a>
             </div>
           </div>
         </div>

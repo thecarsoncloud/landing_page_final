@@ -62,7 +62,7 @@ export default function Zigzag() {
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-left">
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
-                  <h3 className="h3 mb-3">analyze with SS.ai</h3>
+                  <h3 className="h3 mb-3">analyze with Scanifly</h3>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -82,7 +82,7 @@ export default function Zigzag() {
                       </svg>
                       <span>99.99% accurate 3D meshes</span>
                     </li>
-                    <a className="btn text-black bg-white hover:bg-gray-200 w-full mb-3 mt-3 sm:w-auto sm:mb-0 text-xs px-2.5 py-1.5" href="https://www.solarsurvey.ai/" target="_blank" rel="noopener noreferrer">Learn more about SolarSurvey.ai</a>
+                    <a className="btn text-black bg-white hover:bg-gray-200 w-full mb-3 mt-3 sm:w-auto sm:mb-0 text-xs px-2.5 py-1.5" href="https://scanifly.com/" target="_blank" rel="noopener noreferrer">Learn more about Scanifly</a>
                   </ul>
                 </div>
               </div>
